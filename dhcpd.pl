@@ -53,7 +53,7 @@ of a subnet definition (Munin trac ticket #829)
 
 =head1 AUTHOR
 
-Rune Nordbøe Skillingstad.
+Rune NordbÃ¸e Skillingstad.
 
 =head1 LICENSE
 
