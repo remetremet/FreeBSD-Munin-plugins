@@ -4,7 +4,7 @@ Munin plugins (Used under FreeBSD 8/9/10/11/12). Most of these plugins are FreeB
 
 Future
 ===
-As I switched from Munin to Zabbix few months ago these plugins are not maintained anymore and I will not test them with upcomming FreeBSD versions.
+As I switched from Munin to Zabbix few months ago these plugins are NOT maintained anymore and I will not test them with upcomming FreeBSD versions. Take it, use it.
 
 
 ---
